@@ -1,12 +1,19 @@
-- 👋 Hi, I’m Pritipriya Singh (Pri)
-- 👀 I’m interested in Javascript development both client and server side.
-- 🌱 I’m currently learning Web3 and making solidity contracts
-- 💞️ I’m looking to collaborate on Javascript open-source, Web3 talks or anything tech in general.
-- 📫 How to reach me :
-  Twitter: https://twitter.com/pritisinghhhh
-  Email: mail2pritipriya@gmail.com
 
-<!---
-pritipsingh/pritipsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi 👋, I'm Pritipriya Singh 
+[![Twitter Badge](https://img.shields.io/badge/-Pritipriya_Singh-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pritisinghhhh)](https://twitter.com/pritisinghhhh)  [![Linkedin Badge](https://img.shields.io/badge/-Pritipriya_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pritipsingh//)](https://www.linkedin.com/in/pritipsingh/) [![Gmail Badge](https://img.shields.io/badge/-Pritipriya_Singh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail2pritipriya@gmail.com)](mailto:mail2pritipriya@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+
+-  **Learning :** Full-Stack Development | Open-Source | DSA | Web3 (Solidity)  :zap:
+-  **Languages :** Solidity, JavaScript :fire:
+-  **Framework:** React
+-  **Hobbies :** Articles & Music :headphones:
+-  **Fact :** I love sleeping :heart: 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<a href="https://github.com/pritipsingh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pritipsingh&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritipsingh&theme=buefy&layout=compact" />
+</a>
+
