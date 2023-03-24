@@ -7,7 +7,7 @@
 -  **Learning :** Full-Stack Development | Open-Source | DSA | Web3 (Solidity)  :zap:
 -  **Languages :** Solidity, JavaScript :fire:
 -  **Framework:** React
--  **Hobbies :** Articles & Music :headphones:
+-  **Hobbies :** Reading articles & listening to music :headphones:
 -  **Fact :** I love sleeping :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
