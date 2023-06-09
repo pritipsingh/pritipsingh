@@ -5,9 +5,9 @@
 ### About
 
 -  **Learning :** Full-Stack Development | Open-Source | DSA | Web3 (Solidity)  :zap:
--  **Languages :** Solidity, JavaScript :fire:
--  **Framework:** React
--  **Hobbies :** Reading articles & listening to music :headphones:
+-  **Languages :** Solidity(learning), JavaScript :fire:
+-  **Framework:** React, NextJS
+-  **Hobbies :** Reading & listening to music :headphones:
 -  **Fact :** I love sleeping :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
