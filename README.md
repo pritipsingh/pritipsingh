@@ -11,9 +11,7 @@
 -  **Fact :** I love sleeping :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritipsingh&show_icons=true&locale=en" alt="pritipsingh" /></span>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritipsingh&show_icons=true&locale=en&layout=compact" alt="pritipsingh" /></span>
 
-<a href="https://github.com/pritipsingh">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritipsingh&theme=buefy&layout=compact" />
-</a>
 
