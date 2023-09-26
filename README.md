@@ -11,7 +11,11 @@
 -  **Fact :** I love sleeping :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Recent My Technical Articles On<a href="https://hashnode.com/@pritisingh"> Hashnode</a>  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritipsingh&show_icons=true&locale=en" alt="pritipsingh" /></span>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan1506&show_icons=true&locale=en" alt="darshan1506" /></span>
 
 
 
