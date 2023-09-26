@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development | Open-Source | DSA | Web3 (Solidity)  :zap:
+-  **Learning :** Full-Stack Development | Open-Source | MERN | APIs | Web3 (Ethereum Ecosystem)  :zap:
 -  **Languages :** Go(learning), JavaScript :fire:
 -  **Framework:** React, NextJS, TS
 -  **Hobbies :** Reading & listening to music :headphones:
