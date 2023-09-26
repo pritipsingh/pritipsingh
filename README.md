@@ -10,10 +10,11 @@
 -  **Hobbies :** Reading & listening to music :headphones:
 -  **Fact :** I love sleeping :heart: 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Recent My Technical Articles On<a href="https://hashnode.com/@pritisingh"> Hashnode</a>  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritipsingh&show_icons=true&locale=en" alt="pritipsingh" /></span>
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritipsingh&show_icons=true&locale=en&layout=compact" alt="pritipsingh" /></span>
 
