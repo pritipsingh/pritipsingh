@@ -1,6 +1,6 @@
 
 ### Hi 👋, I'm Pritipriya Singh 
-[![Twitter Badge](https://img.shields.io/badge/-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pritisinghhhh)](https://twitter.com/pritisinghhhh)  [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pritipsingh//)](https://www.linkedin.com/in/pritipsingh/) [![Gmail Badge](https://img.shields.io/badge/-Pritipriya_Singh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail2pritipriya@gmail.com)](mailto:mail2pritipriya@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pritisinghhhh)](https://twitter.com/pritisinghhhh)  [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pritipsingh//)](https://www.linkedin.com/in/pritipsingh/) [![Gmail Badge](https://img.shields.io/badge/c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail2pritipriya@gmail.com)](mailto:mail2pritipriya@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
