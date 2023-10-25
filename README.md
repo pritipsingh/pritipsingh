@@ -1,6 +1,14 @@
 
-### Hi 👋, I'm Pritipriya Singh 
-[![Twitter Badge](https://img.shields.io/badge/-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pritisinghhhh)](https://twitter.com/pritisinghhhh)  [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pritipsingh//)](https://www.linkedin.com/in/pritipsingh/) [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail2pritipriya@gmail.com)](mailto:mail2pritipriya@gmail.com)
+### Hi 👋, I'm Priti - Your fav builder!
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pritisinghhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pritipsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priti" height="30" width="40" /></a>
+
+</p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
