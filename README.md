@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/pritipsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priti" height="30" width="40" /></a>
 
 </p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### About
 
 -  **Learning :** Full-Stack Development | Open-Source | MERN | APIs | Web3 (Ethereum Ecosystem)  :zap:
@@ -19,7 +19,7 @@
 -  **Fact :** I love sleeping :heart: 
 
 
-## <a href="https://hashnode.com/@pritisingh">Recent My Technical Articles On Hashnode</a>  
+### <a href="https://hashnode.com/@pritisingh">Recent My Technical Articles On Hashnode</a>  
 
 
 
