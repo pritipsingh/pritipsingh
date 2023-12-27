@@ -12,11 +12,12 @@
 
 ### About
 
--  **Learning :** Full-Stack Development | Open-Source | MERN | APIs | Web3 (Ethereum Ecosystem)  :zap:
--  **Languages :** Go(learning), JavaScript :fire:
--  **Framework:** React, NextJS, TS
+-  **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | APIs | NextJs | Typescript | OpenAI | LLM | Web3 (Ethereum Ecosystem)  :zap:
+-   **Looking to start in coming days :** Go and Python
 -  **Hobbies :** Reading & listening to music :headphones:
--  **Fact :** I love sleeping :heart: 
+-  **Fact :** I love sleeping :heart:
+
+#### Currently Working On : An accessibility tool - a vs code extention that suggests accessible code - currently a private repo, will be open source soon :) 
 
 
 ### <a href="https://hashnode.com/@pritisingh">Recent My Technical Articles On Hashnode</a>  
