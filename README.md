@@ -21,7 +21,7 @@
 #### and a browser extention. Contribute Now:  https://github.com/pritipsingh/The-Productive-Champion
 
 
-### 🔖 <a href="https://hashnode.com/@pritisingh">Click Here To Recent My Technical Articles On Hashnode</a>  
+### 🔖 <a href="https://hashnode.com/@pritisingh">Click Here To Read My Technical Articles On Hashnode</a>  
 
 - 👯‍♀️ If you want to collab with me on an open source project or a hackathon. Shoot me a mail at: mail2pritipriya@gmail.com
 
