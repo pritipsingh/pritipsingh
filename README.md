@@ -12,6 +12,10 @@
 
 ### About 🌷
 
+#### Curently : Frontend Dev @PushProtocol. 
+#### Made many freelance SAAS projects. Read the reccom:  https://www.linkedin.com/in/pritipsingh/details/recommendations/?detailScreenTabIndex=0
+#### Writing about ins and outs of frontend dev at Code Parrot (YC W23)
+
 -  **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | APIs | NextJs | Typescript | OpenAI | LLM | Web3 (Ethereum Ecosystem)  :zap:
 -   **Looking to start in coming days :** Go and Python 🐞
 -  **Hobbies :** Reading & listening to music :headphones:
