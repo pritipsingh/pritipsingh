@@ -12,7 +12,7 @@
 
 ### About 🌷
 
-#### - Curently : Frontend Dev @PushProtocol. 
+#### - Prev : Frontend Dev @PushProtocol. 
 #### - Made many freelance SAAS projects. Read the reccom:  https://www.linkedin.com/in/pritipsingh/details/recommendations/?detailScreenTabIndex=0
 #### - Writing about ins and outs of frontend dev at Code Parrot (YC W23)
 #### - Many Hackathon winner :)
