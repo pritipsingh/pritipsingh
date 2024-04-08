@@ -19,8 +19,7 @@
 #### - Hackathon organizer
 
 
--  **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | APIs | NextJs | Typescript | OpenAI | LLM | Web3 (Ethereum Ecosystem)  :zap:
--   **Looking to start in coming days :** Go and Python 🐞
+-  **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | APIs | NextJs | Typescript | OpenAI | LLM | Web3  :zap:
 -  **Hobbies :** Reading & listening to music :headphones:
 -  **Fact :** I love sleeping :heart:
 
