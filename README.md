@@ -12,9 +12,8 @@
 
 ### About 🌷
 
-#### - Prev : Frontend Dev @PushProtocol. 
-#### - Made many freelance SAAS projects. Read the reccom:  https://www.linkedin.com/in/pritipsingh/details/recommendations/?detailScreenTabIndex=0
-#### - Writing about ins and outs of frontend dev at Code Parrot (YC W23)
+#### - Prev : Frontend Dev @PushProtocol, technical writer @Code Parrot (YC W23)
+#### - Done many freelance projects including SAAS,Porfolio, Websites, etc. 
 #### - Many Hackathon winner :)
 #### - Hackathon organizer
 
@@ -23,8 +22,8 @@
 -  **Hobbies :** Reading & listening to music :headphones:
 -  **Fact :** I love sleeping :heart:
 
-#### 🦄 Currently Working On : An accessibility tool - a vs code extention that suggests accessible code - currently a private repo, will be open source soon :)
-#### and a browser extention. Contribute Now:  https://github.com/pritipsingh/The-Productive-Champion
+#### 🦄 Currently Working On : a browser extention. Contribute Now:  https://github.com/pritipsingh/The-Productive-Champion
+#### And an open-source AudioBook website. 
 
 
 ### 🔖 <a href="https://hashnode.com/@pritisingh">Click Here To Read My Technical Articles On Hashnode</a>  
