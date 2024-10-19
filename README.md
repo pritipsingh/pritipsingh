@@ -31,7 +31,7 @@
 
 - 👯‍♀️ If you want to collab with me on an open source project or a hackathon. Shoot me a mail at: mail2pritipriya@gmail.com
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritipsingh&show_icons=true&include_all_commits=true&count_private=true" alt="pritipsingh" /></span>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritipsingh&show_icons=true&include_all_commits=true&&include_all_prs=true&count_private=true" alt="pritipsingh" /></span>
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritipsingh&show_icons=true&locale=en&layout=compact" alt="pritipsingh" /></span>
 
 
