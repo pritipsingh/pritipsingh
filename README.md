@@ -12,7 +12,7 @@
 
 ### About 🌷
 
-#### - Current: Engg @Phidata
+#### - Current: Senior SWE 2 @Phidata
 #### - Prev : SDE @Carlelo.com, Frontend Dev @PushProtocol, technical writer @Code Parrot (YC W23)
 #### - Done many freelance projects including SAAS,Porfolio, Websites, etc. 
 #### - Many Hackathon winner :)
